@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">project_currency</string>
+    <string-array name="list_items">
+        <item>Ether</item>
+        <item>Polygon</item>
+        <item>Coin</item>
+        <item>bitcoin</item>
+        <item>Ether</item>
+        <item>Polygon</item>
+        <item>Coin</item>
+        <item>bitcoin</item><item>Ether</item>
+        <item>Polygon</item>
+        <item>Coin</item>
+        <item>bitcoin</item><item>Ether</item>
+        <item>Polygon</item>
+        <item>Coin</item>
+        <item>bitcoin</item><item>Ether</item>
+        <item>Polygon</item>
+        <item>Coin</item>
+        <item>bitcoin</item>
+        <item>coins</item>
+    </string-array>
+    <string-array name="list_amount">
+        <item>150000</item>
+        <item>2000000</item>
+        <item>76878</item>
+        <item>65645</item>
+        <item>76569</item>
+        <item>538723</item>
+        <item>150000</item>
+        <item>2000000</item>
+        <item>76878</item>
+        <item>65645</item>
+        <item>76569</item>
+        <item>538723</item>
+        <item>150000</item>
+        <item>2000000</item>
+        <item>76878</item>
+        <item>65645</item>
+        <item>76569</item>
+        <item>538723</item>
+    </string-array>
+</resources>
